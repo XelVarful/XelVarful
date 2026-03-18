@@ -1,4 +1,4 @@
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/0bcd18da-39fc-4949-8d32-bb5453cdd8a5" />
+![Animation](https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)
 
 <h1 align="center">Hi 👋, I'm Adilbek</h1>
 <h3 align="center">Student from Astana | AITU</h3>
