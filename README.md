@@ -1,7 +1,7 @@
 ![Animation](https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)
 
 <h1 align="center">Hi 👋, I'm Adilbek</h1>
-<h3 align="center">Student from Astana | AITU</h3>
+<h3 align="center">full stack developer, QA engineer from Astana | AITU student</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/XelVarful](https://github.com/XelVarful)
 
